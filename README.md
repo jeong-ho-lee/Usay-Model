@@ -11,3 +11,5 @@ Because the server is not running right now, you need to run it local on your co
 user_answer = "Here"
 ```
 and if you run it, you will get the **Score** and **Feedback**.
+# Model Architecture
+<img width="1563" height="676" alt="Image" src="https://github.com/user-attachments/assets/af7782e9-1990-49ed-8dc5-91db0d1043a4" />
