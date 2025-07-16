@@ -18,4 +18,4 @@ user_answer = "Your answer here."
 <img width="1563" height="676" alt="Image" src="https://github.com/user-attachments/assets/af7782e9-1990-49ed-8dc5-91db0d1043a4" />
 
 # Additional Information
-For specific information about Usay, check out **USAY.pdf**.
+For detailed information about Usay, check out **USAY.pdf**.
